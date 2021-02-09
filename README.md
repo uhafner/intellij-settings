@@ -1,0 +1,1 @@
+IntelliJ coding style settings
